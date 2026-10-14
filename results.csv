@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+Naive Bayes,0.9874,0.9787,0.9262,0.9517
+SVM,0.983,0.9276,0.9463,0.9369
+Logistic Regression,0.957,0.7821,0.9396,0.8537
